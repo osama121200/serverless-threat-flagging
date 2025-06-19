@@ -70,8 +70,8 @@ I created a fully serverless, scalable pipeline using:
 
 # Key Technologies
 
-AWS S3, Lambda, DynamoDB, SNS, API Gateway
+- AWS S3, Lambda, DynamoDB, SNS, API Gateway
 
-Terraform (IaC)
+- Terraform (IaC)
 
-Python (Lambda logic)
+- Python (Lambda logic)
