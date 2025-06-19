@@ -11,7 +11,7 @@ Imagine a medical research center receiving hundreds of diagnostic image files (
 
 - Malicious attachments
 
-This system automatically scans, logs, and quarantines such files for review — preventing system disruption or data risk.
+This system automatically scans, logs, and quarantines such files for review, preventing system disruption or data risk.
 
 # Main Problem
 
