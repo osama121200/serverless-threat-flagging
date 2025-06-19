@@ -75,3 +75,5 @@ I created a fully serverless, scalable pipeline using:
 - Terraform (IaC)
 
 - Python (Lambda logic)
+
+📷 For detailed visuals and screenshots of the project setup, architecture, and logs, please check the images folder in this repository.
