@@ -1,5 +1,5 @@
 # Automated Threat-Flagging & File Quarantine Pipeline Using AWS Serverless Stack
-( The whole infrastructure was deployed using Terraform, following infrastructure-as-code best practices.)
+    ( The whole infrastructure was deployed using Terraform, following infrastructure-as-code best practices.)
 
 
 # Real-World Example 
