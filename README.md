@@ -1,6 +1,7 @@
 # Automated Threat-Flagging & File Quarantine Pipeline Using AWS Serverless Stack
 ( The whole infrastructure was deployed using Terraform, following infrastructure-as-code best practices.)
 
+
 # Real-World Example 
 Imagine a medical research center receiving hundreds of diagnostic image files (like X-rays, MRIs, reports) from external sources. Some might be:
 
