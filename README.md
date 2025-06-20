@@ -76,6 +76,6 @@ I created a fully serverless, scalable pipeline using:
 
 - Python (Lambda logic)
 
-# 📷 Screenshots
+# 📷 Screenshots and details
 
-  For detailed visuals and screenshots of the project setup, architecture, and logs, please check the images folder in this repository.
+  Screenshots of the working system including DynamoDB logs, CloudWatch outputs, SNS email alerts, S3 bucket contents, and API Gateway are available in the images folder. All code is shared in this repository as structured files.
